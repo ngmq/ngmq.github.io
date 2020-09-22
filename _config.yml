@@ -18,6 +18,7 @@ minima_reboot:
 header_pages:
 - about.md
 - posts.md
+- researchlog.md
 - github.md
 
 footer_icons:
