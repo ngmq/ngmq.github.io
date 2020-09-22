@@ -16,10 +16,10 @@ minima_reboot:
   date_format_short: "%b %-d"
 
 header_pages:
-- about.md
+#- about.md
 - posts.md
 - researchlog.md
-- github.md
+#- publications.md
 
 footer_icons:
 - username: Quan Nguyen
